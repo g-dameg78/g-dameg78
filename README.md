@@ -3,6 +3,7 @@
 I'm a self-employed technical generalist in Upstate New York. I've used Linux since around 2010 and work on real-world troubleshooting, home-lab infrastructure, firmware and microcontroller projects. I use AI coding tools to accelerate engineering, then verify changes with actual system tests.
 
 ### Selected work
+- [Hercules Inpulse 200 Mk2 MIDI research](https://github.com/g-dameg78/hercules-inpulse-200-mk2-linux) — Linux protocol notes, real controller capture excerpts, an offline decoder and 40 passing tests.
 - [Technical systems case studies](https://github.com/g-dameg78/technical-systems-case-studies) — multi-agent QA, Linux fleet troubleshooting, backup verification and ESP32 wireless MIDI.
 - [Serial-to-MIDI bridge for Linux](https://github.com/g-dameg78/serial-midi-bridge-linux) — public-safe adaptation of a tested personal-hardware integration, with unit tests.
 
